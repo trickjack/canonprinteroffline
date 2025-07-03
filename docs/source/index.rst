@@ -120,7 +120,7 @@ Sending multiple large print jobs simultaneously can overwhelm the printer.
 - Space out printing tasks, especially for high-resolution images or lengthy documents.
 - Wait for one print job to finish before sending another, particularly on older or slower printers.
 
-`Click Here: Get the Live Canon Printer Support `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
 When to Contact Canon Support
 -----------------------------
