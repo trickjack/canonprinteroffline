@@ -43,7 +43,7 @@ A weak or unstable wireless connection is one of the most common causes of print
 
 Outdated drivers and firmware can cause compatibility and communication issues between your printer and computer.
 
-- Visit `ij.start.canon <https://ij.start.canon>`_ or Canon’s official support site.
+- Visit `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_ or Canon’s official support site.
 - Download and install the latest drivers and firmware updates for your specific printer model.
 - Set driver updates to automatic if possible.
 
@@ -120,7 +120,7 @@ Sending multiple large print jobs simultaneously can overwhelm the printer.
 - Space out printing tasks, especially for high-resolution images or lengthy documents.
 - Wait for one print job to finish before sending another, particularly on older or slower printers.
 
-`Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
+`Click Here: Get the Live Canon Printer Support `https://ij.start.canon <https://jivo.chat/KlZSRejpBm>`_
 
 When to Contact Canon Support
 -----------------------------
